@@ -18,3 +18,6 @@
 
 ## OBJETOS PICKEABLES
 !["Coins"](https://github.com/Dimitri2004/RollaBall_Unity/blob/master/Capturas/Captura%20desde%202026-02-10%2010-04-25.png)
+
+## ZONAS DE MUERTE Y RESPAWN 
+!["Coins"]()
