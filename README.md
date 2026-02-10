@@ -17,4 +17,5 @@
 ### MOVIMIENTO DE CAMARA SEGUN 1,2,3 
 
 ## OBJETOS PICKEABLES
-
+[
+](https://github.com/Dimitri2004/RollaBall_Unity/blob/master/Capturas/Captura%20desde%202026-02-10%2010-04-25.png)
