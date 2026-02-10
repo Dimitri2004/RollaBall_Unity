@@ -41,6 +41,8 @@ public class PlayerMovimiento : MonoBehaviour
         Vector3 adelanteCamara = camara.forward;
         Vector3 derechaCamara = camara.right;
 
+        
+
         adelanteCamara.y = 0f;
         derechaCamara.y = 0f;
 
