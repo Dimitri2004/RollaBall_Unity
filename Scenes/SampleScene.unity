@@ -248,7 +248,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camaraInterior: {fileID: 117159853}
-  tiempoEsperaPuerta: 6
+  tiempoEsperaPuerta: 2
 --- !u!81 &117159852
 AudioListener:
   m_ObjectHideFlags: 0
@@ -2568,7 +2568,7 @@ MonoBehaviour:
   animadorPuerta: {fileID: 1110930297}
   parametroAnimator: Abierta
   camaraInterior: {fileID: 117159853}
-  tiempoEsperaPuerta: 0.6
+  tiempoEsperaPuerta: 2
 --- !u!95 &1110930297
 Animator:
   serializedVersion: 5
