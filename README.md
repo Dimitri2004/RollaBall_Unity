@@ -25,3 +25,8 @@
 
 ## ESTRUCTURAS IMPORTADAS DE BLENER
 <img width="1385" height="623" alt="imagen" src="https://github.com/user-attachments/assets/bd09d6f4-3721-4178-a6e3-262d4e715ba9" />
+
+
+## CAMBIO DE PERSPECTIVA SI ESTA DENTRO DE ESTRUCTURAS(EN MAL FUNCIONAMIENTO)
+<img width="1385" height="623" alt="imagen" src="https://github.com/user-attachments/assets/1355d5f5-1cb2-41cc-aed0-a73de79306ba" />
+
