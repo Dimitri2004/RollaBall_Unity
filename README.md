@@ -21,3 +21,7 @@
 
 ## ZONAS DE MUERTE Y RESPAWN 
 !["Coins"](https://github.com/Dimitri2004/RollaBall_Unity/blob/master/Capturas/Captura%20desde%202026-02-10%2012-02-50.png?raw=true)
+
+
+## ESTRUCTURAS IMPORTADAS DE BLENER
+<img width="1385" height="623" alt="imagen" src="https://github.com/user-attachments/assets/bd09d6f4-3721-4178-a6e3-262d4e715ba9" />
